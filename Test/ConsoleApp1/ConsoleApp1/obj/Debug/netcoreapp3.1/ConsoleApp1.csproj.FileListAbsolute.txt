@@ -1,0 +1,14 @@
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\taurustrade.dll
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+d:\Holbrook\Documents\TaurusTrade\TaurusTrade-platform-go\Test\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
